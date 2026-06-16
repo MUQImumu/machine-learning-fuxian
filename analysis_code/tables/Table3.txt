@@ -1,0 +1,9 @@
+Stock+ fund+ sentiment&0.41&4.5***&0.21&5.00\\
+Fund+ sentiment&0.40&5.4***&0.25&2.73\\
+Fund&0.38&5.5***&0.25&0.19\\
+Stock+ fund&0.28&3.3***&0.15&2.30\\
+Stock+ sentiment&0.15&1.6&0.07&1.27\\
+Stock&-0.02&-0.2&-0.01&-1.60\\
+F_r12_2+ sentiment&0.35&4.4***&0.21&0.29\\
+Flow+ fund momentum+ sentiment&0.48&5.2***&0.24&0.92\\
+Fund exclude momentum and flow&0.06&1.5&0.07&0.12\\

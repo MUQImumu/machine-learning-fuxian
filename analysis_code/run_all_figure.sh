@@ -1,0 +1,11 @@
+python3 figure_1_2.py
+python3 figure_4.py
+python3 figure_5_7.py
+python3 figure_6.py
+python3 figure_8.py
+python3 figure_9.py
+python3 figure_10.py
+python3 figure_11.py
+python3 figure_12.py
+python3 figure_13.py
+python3 figure_14.py
